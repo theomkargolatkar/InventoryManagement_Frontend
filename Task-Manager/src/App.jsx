@@ -7,7 +7,7 @@ import ManageTasks from "./pages/Admin/ManageTasks";
 import CreateTask from "./pages/Admin/CreateTask";
 import ManageUsers from "./pages/Admin/ManageUsers";
 import Inventory from "./pages/Admin/Inventory";
-import UserInventory from "./pages/user/UserInventory";
+import UserInventory from "./pages/User/UserInventory";
 
 import UserDashboard from "./pages/User/UserDashboard";
 import MyTasks from "./pages/User/MyTasks";
